@@ -1,0 +1,6 @@
+Lung Segment,Dice Score,IoU,Volumetric Similarity
+lung_middle_lobe_right,0.9859,0.9722,0.9936
+lung_upper_lobe_left,0.9963,0.9926,0.9993
+lung_lower_lobe_left,0.996,0.9921,0.9994
+lung_lower_lobe_right,0.9948,0.9897,0.9988
+lung_upper_lobe_right,0.9927,0.9855,0.9977
